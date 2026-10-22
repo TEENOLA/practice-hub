@@ -1,0 +1,72 @@
+[
+  {
+    "prompt": "Which word is spelled correctly?",
+    "answer": "necessary",
+    "wrong": ["neccessary", "necesary", "neccesary"],
+    "explanation": ["The word necessary has one c and two s.", "A way to remember it: one collar (c) and two sleeves (s)."],
+    "hint": "Think: one collar and two sleeves."
+  },
+  {
+    "prompt": "Which word is spelled correctly?",
+    "answer": "definitely",
+    "wrong": ["definately", "definitly", "defanitely"],
+    "explanation": ["The word definitely has the word “finite” in the middle.", "It is spelled d-e-f-i-n-i-t-e-l-y."],
+    "hint": "Look for the word “finite” hiding inside."
+  },
+  {
+    "prompt": "Choose the correct word: “___ going to the market after school.”",
+    "answer": "They’re",
+    "wrong": ["Their", "There", "Thier"],
+    "explanation": ["They’re is short for “they are”.", "“They are going to the market after school” makes sense, so the answer is They’re."],
+    "hint": "Try saying “they are” in the gap."
+  },
+  {
+    "prompt": "Which word is an adverb in this sentence? “The tortoise walked slowly home.”",
+    "answer": "slowly",
+    "wrong": ["tortoise", "walked", "home"],
+    "explanation": ["An adverb tells us more about a verb.", "Slowly tells us how the tortoise walked."],
+    "hint": "Which word tells you how the tortoise walked?"
+  },
+  {
+    "prompt": "Which sentence uses its or it’s correctly?",
+    "answer": "It’s time to go home.",
+    "wrong": ["Its time to go home.", "The bird cleaned it’s wings.", "The bird cleaned its’ wings."],
+    "explanation": ["It’s means “it is”: “It is time to go home.”", "Its (with no apostrophe) shows that something belongs to it, as in “the bird cleaned its wings”."],
+    "hint": "Can you replace the word with “it is”?"
+  },
+  {
+    "prompt": "Which word means the same as enormous?",
+    "answer": "huge",
+    "wrong": ["tiny", "quiet", "ordinary"],
+    "explanation": ["Enormous means very, very big.", "Huge also means very big, so the two words are synonyms."],
+    "hint": "Enormous means very, very big."
+  },
+  {
+    "prompt": "Which word is the opposite of ancient?",
+    "answer": "modern",
+    "wrong": ["old", "historic", "tall"],
+    "explanation": ["Ancient means very old.", "The opposite of very old is new, and modern means new or of today."],
+    "hint": "Ancient means very old. What is the opposite of old?"
+  },
+  {
+    "prompt": "Which sentence is punctuated correctly?",
+    "answer": "Ade asked, “Can I borrow your pen?”",
+    "wrong": ["Ade asked “can I borrow your pen”.", "Ade asked, “can I borrow your pen”.", "Ade asked “Can I borrow your pen?.”"],
+    "explanation": ["Put a comma after “asked” before the spoken words.", "Spoken words start with a capital letter and sit inside speech marks.", "Because it is a question, the question mark goes inside the speech marks."],
+    "hint": "Spoken words need a capital letter, and a question needs a question mark."
+  },
+  {
+    "prompt": "Which word is a noun in this sentence? “Kindness makes the whole class happy.”",
+    "answer": "Kindness",
+    "wrong": ["makes", "whole", "happy"],
+    "explanation": ["A noun is a naming word.", "Kindness names a quality, so it is a noun. Makes is a verb. Whole and happy are adjectives."],
+    "hint": "A noun names a person, place, thing or idea."
+  },
+  {
+    "prompt": "What is the plural of child?",
+    "answer": "children",
+    "wrong": ["childs", "childen", "childes"],
+    "explanation": ["Child is an irregular noun, so we do not just add s.", "The plural is children."],
+    "hint": "This is an irregular plural, so adding s will not work."
+  }
+]

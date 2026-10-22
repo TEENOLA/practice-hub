@@ -1,0 +1,72 @@
+[
+  {
+    "prompt": "Which force pulls objects towards the Earth?",
+    "answer": "Gravity",
+    "wrong": ["Friction", "Air resistance", "Magnetism"],
+    "explanation": ["Gravity is the force that pulls objects towards the centre of the Earth.", "It is why things fall down when you drop them."],
+    "hint": "It is the force that makes things fall when you drop them."
+  },
+  {
+    "prompt": "A parachute slows down a person who is falling. Which force does the parachute increase?",
+    "answer": "Air resistance",
+    "wrong": ["Gravity", "Magnetism", "Friction between two solids"],
+    "explanation": ["A parachute has a large surface that pushes against the air.", "This pushes upwards against the fall, which is air resistance, and so the person falls more slowly."],
+    "hint": "The parachute pushes against something all around us."
+  },
+  {
+    "prompt": "What force slows a bicycle down when you press the brakes?",
+    "answer": "Friction",
+    "wrong": ["Gravity", "Magnetism", "Light"],
+    "explanation": ["The brake pads rub against the wheel.", "Surfaces rubbing together make friction, which slows the bicycle down."],
+    "hint": "Two surfaces rub together when the brakes work."
+  },
+  {
+    "prompt": "In which unit is force measured?",
+    "answer": "Newtons",
+    "wrong": ["Kilograms", "Metres", "Litres"],
+    "explanation": ["Force is measured in newtons, written N.", "Kilograms measure mass, metres measure length and litres measure volume."],
+    "hint": "The unit is named after a famous scientist."
+  },
+  {
+    "prompt": "Which of these is a lever?",
+    "answer": "A seesaw",
+    "wrong": ["A football", "A balloon", "A pillow"],
+    "explanation": ["A lever is a bar that turns around a fixed point called a pivot.", "A seesaw balances on a pivot in the middle, so it is a lever."],
+    "hint": "A lever is a bar that turns around a point."
+  },
+  {
+    "prompt": "A toy car is pushed across four surfaces. Which surface gives the MOST friction?",
+    "answer": "Rough carpet",
+    "wrong": ["Smooth ice", "Polished tiles", "Wet glass"],
+    "explanation": ["Rough surfaces grip more, so they make more friction.", "Rough carpet gives the most friction, so the toy car stops soonest on it."],
+    "hint": "Which surface feels the roughest?"
+  },
+  {
+    "prompt": "Why does a speedboat have a pointed front?",
+    "answer": "To reduce water resistance",
+    "wrong": ["To increase friction", "To make gravity stronger", "To make the boat heavier"],
+    "explanation": ["A pointed, streamlined front cuts through the water.", "That reduces water resistance, so the boat can move faster."],
+    "hint": "A streamlined shape slips through water more easily."
+  },
+  {
+    "prompt": "What do gears do?",
+    "answer": "Change the speed or direction of a turning movement",
+    "wrong": ["Make an object heavier", "Create magnetism", "Stop all forces"],
+    "explanation": ["Gears are wheels with teeth that fit together.", "When one gear turns, it turns the next one, and this can change the speed or the direction of the turning."],
+    "hint": "Think of the gears on a bicycle."
+  },
+  {
+    "prompt": "Which force lets a magnet pick up a paperclip?",
+    "answer": "Magnetic force",
+    "wrong": ["Water resistance", "Friction", "Air resistance"],
+    "explanation": ["A magnet pulls on some metals, such as iron and steel, without touching them.", "This pulling force is called magnetic force."],
+    "hint": "The magnet does not need to touch the paperclip."
+  },
+  {
+    "prompt": "Which scientist is famous for his work on gravity?",
+    "answer": "Isaac Newton",
+    "wrong": ["Charles Darwin", "Louis Pasteur", "Marie Curie"],
+    "explanation": ["Isaac Newton explained that gravity pulls objects together.", "The unit of force, the newton, is named after him."],
+    "hint": "The unit of force is named after him."
+  }
+]
